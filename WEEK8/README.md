@@ -1,10 +1,5 @@
-# zguo0682_9103_tut1
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
+# Assignment8
+
 
 My first repository for IDEA9103
 
@@ -26,7 +21,11 @@ This is my first local change to the repo!
 
 ![An image of a cat](http://placekitten.com/200/300)
 
-![An image of the Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+![An image of Inspiration](readmeImages/
+Imaging Technique Inspiration_1)
+
+![An image of Inspiration](readmeImages/
+Imaging Technique Inspiration_2)
 
 ```
 function helloWorld() {

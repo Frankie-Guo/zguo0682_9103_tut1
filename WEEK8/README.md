@@ -17,15 +17,13 @@ This is my first local change to the repo!
 2. Second Item
 3. Third Item
 
-[Link Text](https://www.google.com)
 
-![An image of a cat](http://placekitten.com/200/300)
+![An image of the Inspiration][readmeImages/Imaging Technique Inspiration_1.jpg]
 
-![An image of Inspiration](readmeImages/
-Imaging Technique Inspiration_1)
 
-![An image of Inspiration](readmeImages/
-Imaging Technique Inspiration_2)
+![An image of the Inspiration][readmeImages/Imaging Technique Inspiration_2.jpg]
+
+
 
 ```
 function helloWorld() {
@@ -33,3 +31,5 @@ console.log("Hello, world!");
 }
 ```
 > This is a blockquote.
+
+[readmeImages/Imaging Technique Inspiration_1.jpg]: readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg

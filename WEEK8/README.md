@@ -16,4 +16,6 @@ This is an artwork that uses a limited set of colors and elements. The main vari
 A method named **easeInOutExpo()** from **fabric.js** might help contribute to our desired results described from Part 1. The major function of this method is the controlling of the rate of shapes being changed. By adjusting the rate of change at the beginning slower, then gradually speed it up, and eventually slow the rate of change down again before the end, it creates a more natural flow in the animation. This method can be applied to all the changing of the rectangles and the lines in the representation of Mondrian's artwork.
 
 > **Screenshot 3**
-![CodingTechnique](readmeImage/Image3.jpg)
+![coding1](readmeImages/Image3.jpg)
+
+[Example Link](https://api.flutter.dev/flutter/animation/Curves/easeInOutExpo-constant.html)

@@ -18,4 +18,4 @@ A method named **easeInOutExpo()** from **fabric.js** might help contribute to o
 > **Screenshot 3**
 ![coding1](readmeImages/Image3.jpg)
 
-[Example Link](https://api.flutter.dev/flutter/animation/Curves/easeInOutExpo-constant.html)
+>Here is the [Example Link](https://api.flutter.dev/flutter/animation/Curves/easeInOutExpo-constant.html) to example implementation and some example code.

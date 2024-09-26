@@ -1,35 +1,19 @@
 # Assignment8
 
+## **Part 1**
 
-My first repository for IDEA9103
-
-This is my first local change to the repo!
-
-**Bold Text** or __Bold Text__
-*Italic Text* or _Italic Text_
-
-- Item 1
-- Item 2
-  - Subitem 2.1
-  - Subitem 2.2
-
-1. First Item
-2. Second Item
-3. Third Item
+This is an artwork that uses a limited set of colors and elements. The main variation of this artwork is the changing length of the lines, which can range from a single point at their shortest to extending beyond the screen at their longest. This imaging technique can be incorporated into our represent of Mondrian’s works, as they both have the characteristic of using the limited elements and colors. And by changing the limited elements, the represented artwork can become more interactive but without losing its original characteristics. 
 
 
-![An image of the Inspiration][readmeImages/Imaging Technique Inspiration_1.jpg]
+> **Screenshot 1**
+![Inspiration1](readmeImages/Image1.jpg)
 
+> **Screenshot 2**
+![Inspiration2](readmeImages/Image2.jpg)
 
-![An image of the Inspiration][readmeImages/Imaging Technique Inspiration_2.jpg]
+## **Part 2**
 
+A method named **easeInOutExpo()** from **fabric.js** might help contribute to our desired results described from Part 1. The major function of this method is the controlling of the rate of shapes being changed. By adjusting the rate of change at the beginning slower, then gradually speed it up, and eventually slow the rate of change down again before the end, it creates a more natural flow in the animation. This method can be applied to all the changing of the rectangles and the lines in the representation of Mondrian's artwork.
 
-
-```
-function helloWorld() {
-console.log("Hello, world!");
-}
-```
-> This is a blockquote.
-
-[readmeImages/Imaging Technique Inspiration_1.jpg]: readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg
+> **Screenshot 3**
+![CodingTechnique](readmeImage/Image3.jpg)
